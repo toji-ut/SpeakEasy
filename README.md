@@ -3,7 +3,6 @@
 Not hosted anywhere yet but I am planning to do it on Linode when I make it better with proper authentication. </br>
 No money to host right now :( </br>
 
-# SpeakEasy
 
 SpeakEasy is a chat application built using Pocketbase and Svelte. The app aims to provide a simple yet effective platform for real-time communication.
 
